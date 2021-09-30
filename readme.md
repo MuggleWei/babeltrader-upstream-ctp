@@ -1,2 +1,3 @@
 # CTP API
-来源: 上海期货信息有限公司  
+from: sfit.com.cn  
+copyright: 上海期货信息有限公司  
